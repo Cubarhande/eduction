@@ -2,8 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,500&display=swap');
 /* font awesome link */
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
-/* bootstrap local  */
-@import url('../bootstrap/css/bootstrap.min.css');
+
 * {
     margin: 0;
     padding: 0;
